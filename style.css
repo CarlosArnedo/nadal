@@ -1,0 +1,66 @@
+.titulo{
+    border-top: 1px solid greenyellow;
+    border-bottom: 1px solid greenyellow;
+}
+
+.titu{
+    color: greenyellow;
+    text-align: center;
+    letter-spacing: 25px;
+}
+
+body{
+    background-color: black;
+}
+
+.cuerpo{
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
+.emote{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+h2{
+    letter-spacing: 20px;
+    color: white;
+    background-color: greenyellow;
+    margin-top: 0px;
+}
+
+.cuerpo2{
+    margin-right: 350px;
+    margin-left: 350px;
+    color: white;
+    border: 2px solid white;
+    border-top-right-radius: 10px;
+    
+}
+
+.texto{
+   display: flex;
+    font-size: 20px;
+}
+
+img{
+    border: 2px solid greenyellow;
+}
+
+.imagen{
+    margin-right: 5px;
+}
+
+.pong{
+    color: yellow;
+}
+
+.Nolan{
+    color: red;
+}
+
+.fecha{
+    color: green;
+}
